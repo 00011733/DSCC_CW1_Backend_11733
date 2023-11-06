@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSCC_CW1_Backend_11733.props" />
+</Project>
