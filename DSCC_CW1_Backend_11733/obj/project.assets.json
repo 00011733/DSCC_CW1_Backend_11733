@@ -3324,11 +3324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding\\c#\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733.csproj",
+      "projectUniqueName": "D:\\WIUT\\DSCC\\CW1\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733.csproj",
       "projectName": "DSCC_CW1_Backend_11733",
-      "projectPath": "D:\\coding\\c#\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733.csproj",
+      "projectPath": "D:\\WIUT\\DSCC\\CW1\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\coding\\c#\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\obj\\",
+      "outputPath": "D:\\WIUT\\DSCC\\CW1\\DSCC_CW1_Backend_11733\\DSCC_CW1_Backend_11733\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
